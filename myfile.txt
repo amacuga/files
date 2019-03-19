@@ -1,0 +1,12 @@
+Hello, world!
+Goodbye, world!
+Hello, world!
+Goodbye, world!
+Hello, world!
+Goodbye, world!
+Hello, world!
+Goodbye, world!
+Hello, world!
+Goodbye, world!
+This is from the new way!
+Another line!
